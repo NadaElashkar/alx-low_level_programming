@@ -20,7 +20,7 @@ printf ("%d is %s\n" ,n,"negative");
 
 else if (n >0)
 {
-printf ("%d id %s\n",n,"positive"),
+printf ("%d is %s\n",n,"positive"),
 }
 else
 {
