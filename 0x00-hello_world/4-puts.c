@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - main is my first function
+ * Return: first return
  */
 int main(void)
 {
