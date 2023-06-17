@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main - My main function
- * Return: always zero for success
+ *main - My main function
+ *Return: always zero for success
  */
 int main(void)
-{	
+{
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
 	printf("Size of an int: %lu byte(s)\n", sizeof(int));
 	printf("Size of a long int: %lu byte(s)\n", sizeof(long int));
