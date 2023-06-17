@@ -1,6 +1,10 @@
 #include <stdio.h>
+/**
+ * main - is my main function
+ * Return: Always zero for success
+ */
 int main (void)
 {
-	puts("with proper grammar, but the outcome is a piece of art\,");
-	return 0;
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return(0);
 }
