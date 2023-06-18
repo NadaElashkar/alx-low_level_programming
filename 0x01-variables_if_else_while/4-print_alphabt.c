@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**main - is my main function
- *Description 'advanced while loop'
+ **Description 'advanced while loop'
  *Return: always zero for success
  */
 int main(void)
@@ -18,5 +18,6 @@ int main(void)
 	putchar (n);
 	n++;
 }
+putchar ('\n');
 return (0);
 }
