@@ -1,8 +1,8 @@
 #include <stdio.h>
-
-/**main - is my main function
- **Description 'advanced while loop'
- *Return: always zero for success
+/**
+ *main - the main function
+ *Description ' described'
+ *Return: 0
  */
 int main(void)
 {
