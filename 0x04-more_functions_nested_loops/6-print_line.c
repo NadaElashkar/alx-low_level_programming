@@ -15,7 +15,7 @@ if (n <= 0)
 
 else
 {
-	for (x = 1; ln <= n; x++)
+	for (x = 1; x <= n; x++)
 		_putchar ('_');
 			_putchar ('\n');
 }
