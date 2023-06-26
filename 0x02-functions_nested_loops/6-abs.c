@@ -2,18 +2,19 @@
 #include <stdio.h>
 
 /**
- *main - check the code
+ *_abs - check the code
  *@i: i
  *Return: Always 0.
  */
 
-int _abs(int);
-
-if (i >= 0)
+int _abs(int i)
 {
-return (i);
-}
-if (i <0)
-{
-return (i * -1);
+	if (i >= 0)
+	{
+		return (i);
+	}
+	else
+	{
+		return (i * -1);
+	}
 }
