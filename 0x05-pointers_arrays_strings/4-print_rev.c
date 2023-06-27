@@ -11,6 +11,6 @@ int start = 0;
 while (s[start])
 	start++;
 while (start--)
-	_putchar (start);
+	_putchar (s[start]);
 _putchar ('\n');
 }
